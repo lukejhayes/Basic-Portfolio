@@ -1,0 +1,30 @@
+.left{
+    background: grey;
+}
+.right{
+    background: grey;
+}
+
+.fillup{
+    border: solid 2px black;
+}
+.navbutton{
+    float: right;
+}
+.card-footer{
+    text-align: center;
+}
+.fillup{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-left: 17%;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+#four{
+    margin-right: 47%;
+}

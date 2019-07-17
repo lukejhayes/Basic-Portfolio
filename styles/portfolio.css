@@ -1,0 +1,25 @@
+.left{
+    background: grey;
+}
+.right{
+    background: grey;
+}
+.portfolio{
+    border: solid 2px black;
+}
+.navbutton{
+    /* margin-top: 5%; */
+    float: right;
+    /* margin-right: 10%; */
+}
+.card-footer{
+    text-align: center;
+}
+.port{
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    margin-left: 17%;
+    text-decoration: underline;
+}

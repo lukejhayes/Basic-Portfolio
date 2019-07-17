@@ -1,0 +1,20 @@
+.left{
+    background: grey;
+}
+.right{
+    background: grey;
+}
+.aboutText{
+    border: solid 2px black;
+}
+.navbutton{
+    float: right;
+}
+.card-footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-left: 17%;
+    text-decoration: underline;
+}
